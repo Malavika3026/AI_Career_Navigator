@@ -122,8 +122,8 @@ ai_career_navigator/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/Malavika3026/AI_Career_Navigator.git
-cd AI_Career_Navigator
+git clone https://github.com/Malavika3026/AI-Career-Navigator.git
+cd AI-Career-Navigator
 ```
 
 ---
